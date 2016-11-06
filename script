@@ -37,7 +37,20 @@ sudo apt-get update
 sudo apt-get -y install tarantool
 
 #установка tekUI
+#TODO: Dima
 git clone http://ilya@109.111.183.38:5000/vc/tekui
 cd tekui
 make all
 sudo make install
+
+#install gstreamer
+#TODO: Dima
+
+#install transos
+#TODO: Dima
+
+#install metro
+#TODO: Dima
+
+#configure autostart daemon
+#TODO: Ilya
